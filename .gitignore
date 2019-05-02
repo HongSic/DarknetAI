@@ -3,12 +3,9 @@
 *.dSYM
 *.csv
 *.out
-*.png
 *.so
 *.exe
 *.dll
-mnist/
-data/
 caffe/
 grasp/
 images/
@@ -16,7 +13,6 @@ opencv/
 convnet/
 decaf/
 submission/
-cfg/
 build_*/
 !build/darknet/YoloWrapper.cs
 .fuse*
@@ -34,5 +30,4 @@ Thumbs.db
 .vscode/
 
 lib/
-include/
 share/
